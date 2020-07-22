@@ -39,8 +39,30 @@ Consta de los siguientes sitios:
     - Más Información
     - Financiación
 - [ ] Página de Registro de Usuario
+  - nombre
+  - apellido
+  - dni
+  - email
+  - contraseña
+  - teléfono
+  - país con un selector de 10 países por lo menos
+  - seleccion de sexo
+  - checkbox para terminos y condiciones
+  - boton para enviar el formulario
+  - [ ] Beneficios del sitio
 - [ ] Página de Ingreso de Usuario
+  - email
+  - contraseña
+  - recuperar contraseña
+  - registrasrse (href="regsitro.html")
 - [ ] Página de Panel de Usuario:
   - [ ] Foto de perfil
+    - Mostrar la foto
+    - Editar la foto: <input type="file">
   - [ ] Datos actuales
-  - [ ] Formulario de modificación
+    - Mismos datos del formulario de ingreso
+  - [ ] Formulario de modificación datos
+    - Todos los campos excepto email (no debe cambiar email)
+  - [ ] Formulario de cambio de contraseña
+    - Ingresar nueva contraseña
+    - Repetir contraseña
